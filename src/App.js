@@ -5,9 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>React 計算機</h1>
-      </header>
+       <h1>學號:4B0G0037 姓名:林定燁</h1>   
       <main>
         <Calculator />
       </main>
